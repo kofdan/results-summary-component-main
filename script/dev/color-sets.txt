@@ -1,0 +1,28 @@
+color sets 
+
+
+set 04 свіжий
+
+d9ebe9
+004a43
+eb404e
+ffac3e
+
+set 03 незвичний
+
+f36429
+1baf4e
+2a2a2a
+82d1e2
+
+set 02 активний
+c8ff29
+c5aafff
+fffffff
+212042
+
+set 01 спокійний
+242539
+efc8c8
+bdd3cc
+eae9e5
