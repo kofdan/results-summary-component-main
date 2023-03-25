@@ -22,6 +22,9 @@
 * {
   box-sizing: border-box;
 }
+.attribution {
+  display: none;
+}
 
 html {
   height: 100%;
@@ -166,7 +169,7 @@ a {
 
 .score {
   margin-left: auto;
-  color: hsl(241, 100%, 89%);
+  color: rgba(0, 0, 0, 0.4);
 }
 .score span {
   color: hsl(224, 30%, 27%);
